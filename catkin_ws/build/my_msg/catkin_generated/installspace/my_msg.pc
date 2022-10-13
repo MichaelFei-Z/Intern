@@ -1,0 +1,8 @@
+prefix=/home/michael_fei/Project/AprilTag/catkin_ws/install
+
+Name: my_msg
+Description: Description of my_msg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation roscpp rospy std_msgs
