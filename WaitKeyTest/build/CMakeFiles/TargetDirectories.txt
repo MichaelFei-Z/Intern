@@ -1,0 +1,3 @@
+/home/michael/Project/OpenCV/WaitKeyTest/build/CMakeFiles/rebuild_cache.dir
+/home/michael/Project/OpenCV/WaitKeyTest/build/CMakeFiles/opencv_test.dir
+/home/michael/Project/OpenCV/WaitKeyTest/build/CMakeFiles/edit_cache.dir

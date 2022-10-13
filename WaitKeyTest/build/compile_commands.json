@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/michael/Project/OpenCV/WaitKeyTest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_test.dir/test_2.cpp.o -c /home/michael/Project/OpenCV/WaitKeyTest/test_2.cpp",
+  "file": "/home/michael/Project/OpenCV/WaitKeyTest/test_2.cpp"
+}
+]
